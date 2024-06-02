@@ -36,7 +36,7 @@ The password should be encrypted and the password field shouldn't be displayed i
 # Installing - easy ::
 1.	Download the repository
 ```
-git clone https://github.com/margiki/NHS-nodejs-webapp
+git clone https://github.com/NehaNusrat/RMSTU-Hospital-Management-System
 ```
 2.	Open the Terminal (Linux & MacOS) or PowerShell (Windows) and change directory to the project folder.
 3. Go to frontend folder and type " npm install " in the terminal and press Enter.All the dependencies of frontend would be installed.
@@ -86,27 +86,6 @@ To make  a Appointment of Doctor user must be login first.
 After Login in successfully user book their  Appointment. The appointment form requires patients to select  Date and Time that they want to meet with the doctor and add their desease. The consultancy fee will be added by the administrator.
 
 ![Appoitnment](<Screenshot (7).png>)
-
-
-## Add invoice from admin pannel
-
-After the process of Appointment is completed.Administrator add the invoice for each Appointment.
-
-
-![add invoice](<Screenshot (20)-1.png>)
-
-
-## payment 
-
- Go to dashboard to see history of Appointment.  Now user can pay his bill through khalti payment gateway.
-
-![user-dashboard](<Screenshot (17).png>)
-
-
-![khalti-payment](<Screenshot (18).png>)
-
-
-
 
 
 ## Admin module
