@@ -29,7 +29,6 @@ The password should be encrypted and the password field shouldn't be displayed i
 3. React
 4. MongoDb
 5. Express
-6. Redux Toolkit 
 
 ## Installing
 
