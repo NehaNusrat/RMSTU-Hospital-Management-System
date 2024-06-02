@@ -1,8 +1,8 @@
 
-# Hospital Management System
+# RMSTU Hospital Management System
 
 
-Hospital Management System using MongoDb, Express and React
+RMSTU Hospital Management System using MongoDb, Express and React
 
 
 # Need to  work on
